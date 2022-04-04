@@ -1,0 +1,6 @@
+Task
+In a single toss of 2 fair (evenly-weighted) six-sided dice, find the probability that their sum will be at most 9.
+1. 2/3
+2. 5/6 (Correct Answer)
+3. 1/4
+4. 1/6
